@@ -2,7 +2,7 @@
 
 Take it hard on your eyes, get yourself a seizure!
 
-![Forum Theme](https://github.com/username1001/fcc-forum-theme/blob/master/theme.png)
+![Forum Theme](https://i.imgur.com/dzCCo4H.gif)
 
 ## Installation
 
