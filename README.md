@@ -11,7 +11,8 @@ Take it hard on your eyes, get yourself a seizure!
 3. In a new tab, type "chrome://extensions".
 4. Click "Load unpacked extension..."
 5. Select the folder "fcc-forum-theme", and click open.
-6. Call the seizure hotline - https://www.epilepsy.com/living-epilepsy/247-helpline
+6. Pretend your taking LSD.
+7. Call the seizure hotline - https://www.epilepsy.com/living-epilepsy/247-helpline
 
 Now when you navigate to https://forum.freecodecamp.org/, you should see similar results as the picture above.
 
